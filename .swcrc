@@ -1,0 +1,18 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    },
+    "target": "esnext",
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ]
+    },
+    "baseUrl": "/home/ben_eronka_com/admin.culero"
+  },
+  "module": {
+    "type": "commonjs"
+  },
+  "sourceMaps": true
+}

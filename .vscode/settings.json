@@ -1,0 +1,17 @@
+{
+  "files.eol": "\n",
+  "files.exclude": {
+    "db/**": true
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
+  "editor.snippetSuggestions": "top",
+  "eslint.validate": ["typescript"]
+}
